@@ -1,9 +1,9 @@
 name = "edge-sub"
-compatibility_date = "2026-10-10"
+compatibility_date = "2023-10-10"
 
-main = "edge-sub.yopityu56.workers.dev/index.js"
+main = "workers-site/index.js"
 site.bucket = "./"
 
 kv_namespaces = [
-    { binding = "EdgeSubDB", id = "c4c7c8ca-b226-4a23-b665-a7768e9093f5" },
+    { binding = "EdgeSubDB", id = "1761dfb08e78486aaae6ebf0fce7065f" },
 ]
