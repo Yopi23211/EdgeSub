@@ -1,9 +1,9 @@
-name = "edgesub"
+name = "EdgeSub"
 compatibility_date = "2026-10-10"
 
 main = "workers-site/index.js"
 site.bucket = "./"
 
 kv_namespaces = [
-    { binding = "EdgeSubDB", id = "1761dfb08e78486aaae6ebf0fce7065f" },
+    { binding = "EdgeSubDB", id = "c4c7c8ca-b226-4a23-b665-a7768e9093f5" },
 ]
