@@ -7,4 +7,3 @@ site.bucket = "./"
 kv_namespaces = [
     { binding = "EdgeSubDB", id = "c4c7c8ca-b226-4a23-b665-a7768e9093f5" },
 ]
-WRANGLER_SEND_METRICS=false
