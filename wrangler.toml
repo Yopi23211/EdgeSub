@@ -1,7 +1,7 @@
 name = "edge-sub"
 compatibility_date = "2026-10-10"
 
-main = "dist/index.js"
+main = "edge-sub/index.js"
 site.bucket = "./"
 
 kv_namespaces = [
